@@ -1,1 +1,1 @@
-# RentacarDB-OpenSRC
+# SocialMediaDB-OpenSRC
